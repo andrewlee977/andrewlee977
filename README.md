@@ -11,7 +11,9 @@ Here are some ideas to get you started:
 
 📚  I'm a full-time student at Lambda School's Data Science program (Expected graduation August 2021)
 
-🌱  I’m currently learning...
+🛠  Skills: Python, MySQL, Scikit-Learn, Numpy, Pandas, Jupyter Notebook, Plotly-Dash, Keras/Tensorflow
+
+🌱  I’m currently learning Docker, Git Workflow, Data Structures & Algorithms
 
 🎓  I have a Bachelor of Science in Business Administration – Operations & Business Analytics and Information Technology (CIT), with Honors distinction, at University of Oregon
 
