@@ -4,6 +4,8 @@
 **andrewlee977/andrewlee977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
+
 
 - 📊 I'm currently working with the Human Rights First non-profit organization to improve outcomes in refugee asylum cases
 
@@ -16,11 +18,6 @@ Here are some ideas to get you started:
 🏒 Fun Fact: I played collegiate ice hockey!
 
 🖇 Find me on LinkedIn! https://www.linkedin.com/in/andrewlee97/
-
--->
-
-
-
 
 
 
