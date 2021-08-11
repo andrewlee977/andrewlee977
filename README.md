@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🎓  I have a Bachelor of Science in Business Administration – Operations & Business Analytics and Information Technology (CIT), with Honors distinction, at University of Oregon
 
-🏒  Fun Fact: I played collegiate ice hockey!
+🏒  Fun Fact: I played collegiate ice hockey and won the PAC-8 tournament my senior year!
 
 🖇 Connect with me on LinkedIn! https://www.linkedin.com/in/andrewlee97/
 
