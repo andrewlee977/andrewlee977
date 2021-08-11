@@ -19,22 +19,19 @@ Here are some ideas to get you started:
 
 🖇 Connect with me on LinkedIn [here!](https://www.linkedin.com/in/andrewlee97/)
 
-## Languages
+## My Toolkit
 ![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python)
 
-## Frameworks
-![Dash](https://img.shields.io/badge/Dash-2E3440?style=for-the-badge&logo=dash)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-## ML/DL
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-## Databases
+![Dash](https://img.shields.io/badge/Dash-2E3440?style=for-the-badge&logo=dash)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-2E3440?style=for-the-badge&logo=sqlite)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2E3440?style=for-the-badge&logo=postgresql)
