@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🏒  Fun Fact: I played collegiate ice hockey and won the PAC-8 tournament my senior year! We beat San Jose State, Arizona State, and Boise State to clinch the title
 
-🖇 Connect with me on LinkedIn! https://www.linkedin.com/in/andrewlee97/
+🖇 Connect with me on LinkedIn [here!](https://www.linkedin.com/in/andrewlee97/)
 
 # Technical Skills
 ![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python)
