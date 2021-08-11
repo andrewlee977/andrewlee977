@@ -40,11 +40,3 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-2E3440?style=for-the-badge&logo=sqlite)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2E3440?style=for-the-badge&logo=postgresql)
-
-## IDEs
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-FE7A16.svg?style=for-the-badge&logo=jupyter-notebook&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## Version Control
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
