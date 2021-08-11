@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 
-📊  I'm currently working as an ML Ops Engineer with the Human Rights First non-profit organization to improve outcomes in refugee asylum cases
+📊  I'm currently working as an ML Ops Engineer with the [Human Rights First](https://github.com/Lambda-School-Labs/human-rights-first-asylum-ds-a) non-profit organization to improve outcomes in refugee asylum cases
 
 📚  I'm a full-time student at Lambda School's Data Science program (Expected graduation August 2021)
 
