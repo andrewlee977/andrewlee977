@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 🛠  Skills: Python, MySQL, Scikit-Learn, Numpy, Pandas, Jupyter Notebook, Plotly-Dash, Keras/Tensorflow
 
-🌱  I’m currently learning Docker, Git Workflow, FastAPI, Data Structures & Algorithms
+🌱  I’m currently learning FastAPI, Docker, Git Workflow, AWS Elastic Beanstalk/RDS, and Scrum
 
 🎓  I have a Bachelor of Science in Business Administration – Operations & Business Analytics and Information Technology (CIT), with Honors distinction, at University of Oregon
 
