@@ -9,11 +9,11 @@ Here are some ideas to get you started:
 
 📊  I'm currently working as an ML Ops Engineer with the [Human Rights First](https://github.com/Lambda-School-Labs/human-rights-first-asylum-ds-a) organization to improve data accessibility and outcomes in refugee asylum cases
 
+🎓  I have a Bachelor of Science in Business Administration – Operations & Business Analytics (Major) and Computer Information Technology (Minor), with Honors distinction, at University of Oregon
+
 📚  I'm a full-time student at Lambda School's Data Science program (Expected graduation August 2021)
 
 🌱  I’m currently learning FastAPI, Docker, Git Workflow, AWS Elastic Beanstalk/RDS, and Scrum
-
-🎓  I have a Bachelor of Science in Business Administration – Operations & Business Analytics and Information Technology (CIT), with Honors distinction, at University of Oregon
 
 🏒  Fun Fact: I played collegiate ice hockey and won the PAC-8 tournament my senior year! We beat San Jose State, Arizona State, and Boise State to clinch the title
 
