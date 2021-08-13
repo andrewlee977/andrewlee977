@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 -->
 
+I'm a self-motivated data scientist who is passionate about end-to-end data driven applications that solve user and business problems. I'm excited to apply cutting-edge technologies and talk about innovations in the industry with equally passionate professionals! Send me a message and let's chat!
 
 📊  I'm currently working as an ML Ops Engineer with the [Human Rights First](https://github.com/Lambda-School-Labs/human-rights-first-asylum-ds-a) organization to improve data accessibility and outcomes in refugee asylum cases
 
@@ -13,7 +14,7 @@ Here are some ideas to get you started:
 
 📚  I'm a full-time student at Lambda School's Data Science program (Expected graduation August 2021)
 
-🌱  I’m currently learning FastAPI, Docker, Git Workflow, AWS Elastic Beanstalk/RDS, and Scrum
+🌱  I’m currently learning FastAPI, Docker, Git Workflow, and AWS Elastic Beanstalk/RDS in an Agile Development environment
 
 🏒  Fun Fact: I played collegiate ice hockey and won the PAC-8 tournament my senior year! We beat San Jose State, Arizona State, and Boise State to clinch the title
 
