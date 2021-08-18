@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-I'm a data scientist who is passionate about end-to-end data driven applications that solve user and business problems. I'm excited to apply cutting-edge technologies and talk about innovations in the industry with equally passionate professionals! Send me a message and let's chat!
+I'm a Data Scientist who is passionate about end-to-end data driven applications that solve user and business problems. I'm excited to apply cutting-edge technologies and talk about innovations in the industry with equally passionate professionals! Send me a message and let's chat!
 
 📊  I'm currently working as an Data Engineer with the [Human Rights First](https://github.com/Lambda-School-Labs/human-rights-first-asylum-ds-a) organization to improve data accessibility and outcomes in refugee asylum cases
 
