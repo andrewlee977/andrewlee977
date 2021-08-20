@@ -14,7 +14,7 @@ I'm a Data Scientist who is passionate about end-to-end data driven applications
 
 📚  I'm a full-time student at Lambda School's Data Science program (Expected graduation August 2021)
 
-🌱  I’m currently learning FastAPI, Docker, Git Workflow, and AWS Elastic Beanstalk/RDS in an Agile Development environment
+🌱  I’m currently developing with Python, Plotly, Git, AWS Elastic Beanstalk, AWS RDS (PostgreSQL), and Docker in an Agile Development environment
 
 🏒  Fun Fact: I played collegiate ice hockey and won the PAC-8 tournament my senior year! We beat San Jose State, Arizona State, and Boise State to clinch the title
 
