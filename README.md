@@ -41,5 +41,5 @@ I'm a Data Scientist who is passionate about end-to-end data driven applications
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrewlee977&show_icons=true&locale=en" alt="andrewlee977" /></p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewlee977)](https://github.com/anuraghazra/github-readme-stats)
 
