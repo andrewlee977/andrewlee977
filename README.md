@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-I'm a Data Scientist who is passionate about end-to-end data driven applications that solve user and business problems. I'm excited to apply cutting-edge technologies and talk about innovations in the industry with equally passionate professionals! Send me a message and let's chat!
+I'm a Data Scientist who is passionate about end-to-end data driven applications that solve user and business problems. Send me a message and let's chat!
 
 📊  I'm currently working as a Data Engineer/ML Ops Engineer with the [Human Rights First](https://github.com/Lambda-School-Labs/human-rights-first-asylum-ds-a) organization to improve data accessibility and outcomes in refugee asylum cases. Our product will help lawyers win refugee asylum cases by providing analytics to help build stronger cases.
 
@@ -14,7 +14,7 @@ I'm a Data Scientist who is passionate about end-to-end data driven applications
 
 📚  I'm a full-time student at Lambda School's Data Science program (Expected graduation August 2021)
 
-🌱  I’m currently developing with Python, Plotly, Git, AWS Elastic Beanstalk, AWS RDS (PostgreSQL), and Docker in an Agile Development environment
+🌱  I’m currently developing with Python, Plotly, FastAPI, Git, AWS Elastic Beanstalk, AWS RDS (PostgreSQL), and Docker in an Agile Development environment
 
 🏒  Fun Fact: I played collegiate ice hockey and won the PAC-8 tournament my senior year! We beat San Jose State, Arizona State, and Boise State to clinch the title
 
