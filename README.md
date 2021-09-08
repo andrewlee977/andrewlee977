@@ -6,15 +6,13 @@
 Here are some ideas to get you started:
 -->
 
-I'm a Data Scientist who is passionate about end-to-end data driven applications that solve user and business problems. Send me a message and let's chat!
+I'm a Data Scientist who is passionate about end-to-end data driven applications that solve user and business problems. Currently looking for opportunities in Data Science and Data Engineering!
 
-📊  I'm currently working as a Data Engineer/ML Ops Engineer with the [Human Rights First](https://github.com/Lambda-School-Labs/human-rights-first-asylum-ds-a) organization to improve data accessibility and outcomes in refugee asylum cases. Our product will help lawyers win refugee asylum cases by providing analytics to help build stronger cases.
+📊  My most recent project was with the [Human Rights First](https://github.com/Lambda-School-Labs/human-rights-first-asylum-ds-a) organization to improve data accessibility and outcomes in refugee asylum cases. Our product will help lawyers win refugee asylum cases by providing analytics to help build stronger cases.
 
-🎓  I have a Bachelor of Science in Business Administration – Operations & Business Analytics (Major) and Computer Information Technology (Minor), with Honors distinction, at University of Oregon
+🎓  I have a Bachelor of Science in Business Administration – Operations & Business Analytics (Major) and Computer Information Technology (Minor), with Honors distinction, at University of Oregon (Graduated June 2020)
 
-📚  I'm a full-time student at Lambda School's Data Science program (Expected graduation August 2021)
-
-🌱  I’m currently developing with Python, Plotly, FastAPI, Git, AWS Elastic Beanstalk, AWS RDS (PostgreSQL), and Docker in an Agile Development environment
+📚  I recently graduated from Lambda School's Data Science program (Graduated August 2021)
 
 🏒  Fun Fact: I played collegiate ice hockey and won the PAC-8 tournament my senior year! We beat San Jose State, Arizona State, and Boise State to clinch the title
 
