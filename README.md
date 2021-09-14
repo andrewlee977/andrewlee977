@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-I'm a Data Scientist who is passionate about end-to-end data driven applications that solve user and business problems. Currently looking for opportunities in Data Science and Data Engineering!
+I'm a Data Scientist who is passionate about end-to-end data driven applications that solve user and business problems. Currently looking for opportunities in Data Science!
 
 📊  My most recent project was with the [Human Rights First](https://github.com/Lambda-School-Labs/human-rights-first-asylum-ds-a) organization to improve data accessibility and outcomes in refugee asylum cases. Our product will help lawyers win refugee asylum cases by providing analytics to help build stronger cases.
 
