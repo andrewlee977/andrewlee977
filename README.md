@@ -10,7 +10,7 @@ I'm a graduate of the University of Oregon – Charles H. Lundquist College of B
 
 I'm currently looking for an opportunity to apply my business and technical backgrounds to continue building end-to-end data driven applications that solve business problems. I want to build applications that scale. This is my passion.
 
-📚  I recently graduated from Lambda School's Data Science program (Graduated August 2021)
+📚  I graduated from the Data Science program at Bloom Institute of Technology (formerly Lambda School) in August 2021
 
 🏒  Fun Fact: I played collegiate ice hockey and won the PAC-8 tournament my senior year! We beat San Jose State, Arizona State, and Boise State to clinch the title
 
