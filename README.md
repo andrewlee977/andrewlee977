@@ -6,14 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-I'm a graduate of the University of Oregon – Charles H. Lundquist College of Business, where I studied in the Business Honors Program. I majored in Business Administration – Operations & Business Analytics and minored in Computer Information Technology. I have previous experience in Sales, Business Development, Finance, and Analytics, so I like to implement these experiences with my technical background.
-
-I'm currently looking for an opportunity to apply my business and technical backgrounds to continue building end-to-end data driven applications that solve business problems. I want to build applications that scale. This is my passion.
-
-📚  I graduated from the Data Science program at Bloom Institute of Technology (formerly Lambda School) in August 2021
-
-🏒  Fun Fact: I played collegiate ice hockey and won the PAC-8 tournament my senior year! We beat San Jose State, Arizona State, and Boise State to clinch the title
-
 🖇 Connect with me on LinkedIn [here!](https://www.linkedin.com/in/andrewlee97/)
 
 ## My Toolkit
