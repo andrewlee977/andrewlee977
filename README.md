@@ -4,6 +4,9 @@
 **andrewlee977/andrewlee977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Find the badges: https://home.aveek.io/GitHub-Profile-Badges/
 Here are some ideas to get you started:
+
+GitHub Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrewlee977&theme=graywhite&show_icons=true&locale=en" alt="andrewlee977" /></p>
 -->
 
 🖇 Connect with me on LinkedIn [here!](https://www.linkedin.com/in/andrewlee97/)
@@ -27,4 +30,3 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrewlee977&theme=graywhite&show_icons=true&locale=en" alt="andrewlee977" /></p>
