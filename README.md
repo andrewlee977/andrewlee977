@@ -2,7 +2,7 @@
 
 <!--
 **andrewlee977/andrewlee977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Find the badges: https://home.aveek.io/GitHub-Profile-Badges/
 Here are some ideas to get you started:
 -->
 
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-0052CC?style=for-the-badge&logo=Snowflake&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=kafka&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=Apache-Kafka&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
