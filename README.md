@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 
 GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrewlee977&theme=graywhite&show_icons=true&locale=en" alt="andrewlee977" /></p>
+🖇 Connect with me on LinkedIn [here!](https://www.linkedin.com/in/andrewlee97/)
 -->
 
-🖇 Connect with me on LinkedIn [here!](https://www.linkedin.com/in/andrewlee97/)
 
 ## My Toolkit
 ![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python)
